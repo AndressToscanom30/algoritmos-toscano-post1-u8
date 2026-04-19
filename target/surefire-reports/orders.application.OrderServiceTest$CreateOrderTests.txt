@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: orders.application.OrderServiceTest$CreateOrderTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.107 s -- in orders.application.OrderServiceTest$CreateOrderTests

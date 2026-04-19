@@ -1,0 +1,8 @@
+orders\adapter\OrderControllerTest$HandleCreateTests.class
+orders\adapter\OrderControllerTest$HandleGetTests.class
+orders\application\OrderServiceTest$CreateOrderTests.class
+orders\adapter\OrderControllerTest$HandleUpdateStatusTests.class
+orders\adapter\OrderControllerTest.class
+orders\application\OrderServiceTest$GetOrderTests.class
+orders\application\OrderServiceTest$UpdateStatusTests.class
+orders\application\OrderServiceTest.class
